@@ -8,8 +8,8 @@
 		"**/patches": true,
 		"**/.turbo": true,
 
-		"node_modules": false,
-		"out": false,
+		"node_modules": true,
+		"out": true,
 
 		".gitattributes": true,
 		".gitignore": true
